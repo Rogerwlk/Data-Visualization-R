@@ -1,0 +1,1 @@
+This project is built upon R 3.3. To run the program, open Global.R using R Studio and click on "Run App". You may need to install some libraries. There is a problem loading geojson file in the latest R version.
